@@ -97,4 +97,3 @@ The training process was divided into two distinct phases of 30 epochs each to e
 #### 1. Clone the Repository
 ```bash
 git clone https://github.com/NoFtorio/cnn-residual-blocks-and-regularization-Cifar10.git
-cd your-repo-name
